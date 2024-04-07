@@ -18,7 +18,7 @@ To get started with creating and minting SPL tokens, follow these steps:
 2. Navigate to the project directory using below command:
 
    ```bash
-   cd solana-memecoin-token-creator
+   cd solana-memetoken-starter-main
    ```
 3. Make sure you have node.js installed on your system, if not you can download it from the below link:
 
